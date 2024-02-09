@@ -1,0 +1,19 @@
+{
+    "education":[
+        {
+            "title": "08/2020 - 07/2024",
+            "cardTitle": "Bachelor of Technology",
+            "cardSubtitle":"Bhagwan Parshuram Institute of Technology",
+            "cardDetailedText": "CGPA - 8.5",
+            "icon" : {
+                "src": "images/education/lorem-ipsum.png"
+            }
+        },
+        {
+            "title": "03/2020",
+            "cardTitle": "High School",
+            "cardSubtitle": "Crescent Public School",
+            "cardDetailedText": "Percentage - 84%"
+        }
+    ]
+}

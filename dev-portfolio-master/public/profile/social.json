@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://www.linkedin.com/in/yash-gupta-4185b4207/"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/YashGupta010"
+        },
+        {
+            "network" : "email",
+            "href": "mailto:yash.edu.2003@gmail.com "
+        }
+    ]
+}

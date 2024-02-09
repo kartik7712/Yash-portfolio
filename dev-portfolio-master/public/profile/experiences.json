@@ -1,0 +1,25 @@
+{
+    "experiences": [
+        {
+            "title": "Front-end Web Developer",
+            "subtitle": "The Sparks Foundation",
+           
+            "workDescription": [
+                "HTML , CSS, JavaScript, React-Js, Bootstrap, Sql",
+                "Working as a web developer."
+            ],
+            "dateText": "Oct 2022 – Nov 2023"
+        },
+        {
+            "title": "Web Designer",
+            "subtitle": "Twowaits Technologies Pvt. Ltd.",
+          
+            "workDescription": [
+                " HTML, CSS, javaScript, C++, MS Excel, Sql",
+                "Solved basic DSA problems & built a quiz based upon the learnings data visualization."
+            ],
+            "dateText": "Feb 2022 – Mar 2022"
+        }
+       
+    ]
+}
